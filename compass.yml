@@ -1,0 +1,16 @@
+name: compass-lib
+id: ari:cloud:compass:3c6f88f2-2c38-4b9b-8147-b3c4a677bfb0:component/95e50b89-e15b-494e-a601-da0aba4a3b2b/1bac5d58-85a5-4d08-98c2-0aa8cd01d03e
+description: Test Repository hosting an example library for a demo of Atlassian Compass
+configVersion: 1
+typeId: LIBRARY
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/ThaterTech/compass-lib
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
