@@ -1,6 +1,7 @@
 name: compass-lib
 id: ari:cloud:compass:3c6f88f2-2c38-4b9b-8147-b3c4a677bfb0:component/95e50b89-e15b-494e-a601-da0aba4a3b2b/1bac5d58-85a5-4d08-98c2-0aa8cd01d03e
 description: Test Repository hosting an example library for a demo of Atlassian Compass
+ownerId: 'ari:cloud:teams::team/8e43bd6c-0afe-40b0-964e-57f71abd3e18'
 configVersion: 1
 typeId: LIBRARY
 fields:
